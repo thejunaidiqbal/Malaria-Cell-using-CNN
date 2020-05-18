@@ -16,7 +16,7 @@ You can follow me on my GitHub Profile for more updates on my Open Source Projec
 [![GitHub Follow](https://img.shields.io/badge/Connect-Muhammad%20Junaid%20Iqbal-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/thejunaidiqbal)
 
 If you liked the repo then kindly support it by giving it a star ⭐⭐⭐⭐⭐!</br>
-[![GitHub stars](https://img.shields.io/github/stars/thejunaidiqbal/Malaria-Cell-using-CNN/)](https://github.com/thejunaidiqbal/Malaria-Cell-using-CNN//stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/thejunaidiqbal/cinemaTicketing/)](https://github.com/thejunaidiqbal/Malaria-Cell-using-CNN//stargazers)
 
 If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 
